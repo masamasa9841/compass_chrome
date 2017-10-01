@@ -1,0 +1,32 @@
+#header{
+	background-image: url('https://routecompass.net/wp-content/uploads/2017/09/IMG_0280-e1506666001817.jpg')!important;
+}
+
+body{
+	background-image: url('https://routecompass.net/wp-content/uploads/2017/09/IMG_0271.jpg')!important;
+}
+
+#main{
+	border: none!important;
+	background-color: unset!important;
+}
+
+.post-meta{
+	background-color: unset!important;
+}
+
+#navi ul li a {
+	border-left: none!important;
+}
+
+#navi ul, #navi ul.sub-menu, #navi ul.children {
+	background-color: unset!important;
+}
+
+#main .entry {
+	border: none!important;
+}
+
+#sidebar .widget {
+	background-color: unset!important;
+}

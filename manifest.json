@@ -1,0 +1,12 @@
+{
+	"name": "金沢テーマ",
+	"version": "0.0.1",
+	"manifest_version": 2,
+	"description": "コンパスのサイトが金沢のテーマになるchrome拡張",
+	"content_scripts": [
+		{
+			"matches": [ "https://routecompass.net/*" ],
+			"css": [ "style.css" ]
+		}
+	]
+}
